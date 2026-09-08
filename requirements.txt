@@ -1,0 +1,4 @@
+graphviz==0.21
+sqlalchemy==2.0.52
+sqlalchemy_schemadisplay==2.0
+pydot==4.0.1
